@@ -5,6 +5,6 @@ mysqldump -u root -padmin lib > "D:\ashish\table\backup.sql"
 
 
 
-to restore-----
+to restore the database-----
 
 mysql -u root -padmin lib < "D:\ashish\table\back.sql"
